@@ -15,28 +15,10 @@ This repository holds my works on machine learning for the Diabetes Checker proj
 9. Analyzed the performance metrics report and identified the optimum algorithm.
 10. Saved the final model into a pickle file.
 
-## Usage
-
-To use the Diabetes Checker model, follow these steps:
-
-1. Install the required dependencies (e.g., NumPy, Pandas, scikit-learn).
-2. Download the dataset from [Kaggle](link-to-dataset).
-3. Run the preprocessing script to prepare the data.
-4. Train the model using the provided scripts.
-5. Use the trained model to make predictions on new data.
 
 ## Results
 
-The project achieved an accuracy of X% on the test set. Further details and performance metrics can be found in the [Results](link-to-results) section.
-
-## Future Work
-
-In the future, I plan to improve the project by:
-- Adding more features to improve the accuracy of predictions.
-- Exploring different machine learning algorithms to compare performance.
-- Enhancing the data preprocessing steps for better handling of outliers and missing values.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license).
+The project achieved an accuracy of 87% on the test set.
+## GUI interface
+Created a web page using python flask framework to get user friendly interface .
 
